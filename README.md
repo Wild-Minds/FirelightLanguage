@@ -1,4 +1,4 @@
-<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/3c837605-762d-45c9-a212-338d93233f19" />These data files support figures in our manuscript : Hobaiter C, Dominy NJ Firelight and the origins of spoken language
+These data files support figures in our manuscript : Hobaiter C, Dominy NJ Firelight and the origins of spoken language
 
 Figure 1. The fireside niche is a dynamic light environment and social space. 
 We quantify firelight with a SpectraScan PR-670 spectroradiometer (Photo Research, Syracuse, USA) at a distance of 1 m and height of 75 cm. We provide the raw Firelight data for flames and coals, as well as the calculated data for luminance used in panels B-D. In panel E we quantify firelight with a spectral irradiance colorimeter (OHSP-350S; range 350-950 nm; Hopoo Light & Color Technology, Hangzhou, China) at a distance of 1 meter and height of 75 cm, and provide the colour spectrum data. 
